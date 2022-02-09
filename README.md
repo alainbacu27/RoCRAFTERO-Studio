@@ -17,7 +17,7 @@ We allow Downloads fron these sites, and hosted in MEGA, MediaFire, Google Drive
 
 Sorry, Some people have been forking my project and I don't allow them, you are free to download it to your computer, but not to re-edit it or do anything like cracking it, it's illegal, although the client comes from Roblox Studio from the year 2017, but nothing happens to the program.
 
-And I can't disable the fork of this project, don't reupload it to sites to distribute the client, or making illegal use will be totally prohibited.
+NOTE: I can't disable the fork of this project, don't reupload it to sites to distribute the client, or making illegal use will be totally prohibited.
 
 Thanks for reading.
 
